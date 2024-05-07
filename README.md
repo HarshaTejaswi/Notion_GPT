@@ -15,4 +15,4 @@ terminal 2 :
 ## Prerequisites
 - Node.js
 - npm
-- configure environment variables
+- configure environment variables"# Notion_GPT" 
